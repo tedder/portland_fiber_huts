@@ -11,7 +11,7 @@ for rec in dbf.Dbf(fh):
   f['geometry'] = { 'type': 'Point', coordinates:[x, y] }
   f['properties'] =  {'x':'y'}
 
-  owner = "\n".join( (rec['OWNER1'], rec['OWNER2'], rec['OWNER3') )
+  owner = "\n".join( (rec['OWNER1'], rec['OWNER2'], rec['OWNER3']) )
   txt = """Owner: %s
 Department: %s
 Review: %s (%s)
