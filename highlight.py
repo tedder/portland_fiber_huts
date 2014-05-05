@@ -15,11 +15,11 @@ for n,feature in enumerate(j['features']):
   elif v == 'Viable':
     fc = feature['properties']['Fiber_Clas']
     if fc == 'High Review':
-      feature['properties']['fill'] = '#9900e6'
+      feature['properties']['fill'] = '#4b0070'
       #feature['properties']['stroke'] = '#ff5d0d'
       feature['properties']['stroke-width'] = 1
     elif fc == 'Medium Review':
-      feature['properties']['fill'] = '#c249ff'
+      feature['properties']['fill'] = '#9900e6'
       #feature['properties']['stroke'] = '#ff5d0d'
       feature['properties']['stroke-width'] = 1
     elif fc == 'Low Review':
