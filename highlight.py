@@ -16,13 +16,16 @@ for n,feature in enumerate(j['features']):
     fc = feature['properties']['Fiber_Clas']
     if fc == 'High Review':
       feature['properties']['fill'] = '#ff710d'
-      feature['properties']['stroke-width'] = 1
+      feature['properties']['stroke'] = '#ff5d0d'
+      feature['properties']['stroke-width'] = 3
     elif fc == 'Medium Review':
       feature['properties']['fill'] = '#ff9326'
-      feature['properties']['stroke-width'] = 0
+      feature['properties']['stroke'] = '#ff5d0d'
+      feature['properties']['stroke-width'] = 1
     elif fc == 'Low Review':
       feature['properties']['fill'] = '#ffbf40'
-      feature['properties']['stroke-width'] = 0
+      feature['properties']['stroke'] = '#ffb040'
+      feature['properties']['stroke-width'] = 1
 
 j['features'] = [x for x in j['features'] if x['properties']['Viability'] == 'Viable']
 
