@@ -80,7 +80,8 @@
     "SHAPE_Leng": 480.30908013, 
     "STATE_ID": "1S2E16CA  11000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -136,7 +137,8 @@
     "SHAPE_Leng": 238.361550174, 
     "STATE_ID": "1S2E16CA  10600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -192,7 +194,8 @@
     "SHAPE_Leng": 215.810573927, 
     "STATE_ID": "1N1E32DC  7500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -300,7 +303,8 @@
     "SHAPE_Leng": 456.771516527, 
     "STATE_ID": "1N1W13    401", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -384,7 +388,8 @@
     "SHAPE_Leng": 544.026261245, 
     "STATE_ID": "1N1E32DA  7700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -440,7 +445,8 @@
     "SHAPE_Leng": 354.435323428, 
     "STATE_ID": "1N1E32DB  13600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -512,7 +518,8 @@
     "SHAPE_Leng": 362.82413937, 
     "STATE_ID": "1S2E16DB  6500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -572,7 +579,8 @@
     "SHAPE_Leng": 300.001135057, 
     "STATE_ID": "1N1W12DB  4500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -632,7 +640,8 @@
     "SHAPE_Leng": 581.959818602, 
     "STATE_ID": "1N1W02A   800", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -704,7 +713,8 @@
     "SHAPE_Leng": 372.262858409, 
     "STATE_ID": "1S2E16CA  9000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -756,7 +766,8 @@
     "SHAPE_Leng": 275.187114881, 
     "STATE_ID": "1S2E16CA  10500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -840,7 +851,8 @@
     "SHAPE_Leng": 774.836248479, 
     "STATE_ID": "1N1E34AA  3800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -984,7 +996,8 @@
     "SHAPE_Leng": 1288.07470435, 
     "STATE_ID": "1S1E11BA  9200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1044,7 +1057,8 @@
     "SHAPE_Leng": 463.847948805, 
     "STATE_ID": "1S1E06CA  1500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1128,7 +1142,8 @@
     "SHAPE_Leng": 589.332873893, 
     "STATE_ID": "2N1E34CA  1700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1180,7 +1195,8 @@
     "SHAPE_Leng": 546.07168067, 
     "STATE_ID": "1N1E34DA  700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1248,7 +1264,8 @@
     "SHAPE_Leng": 639.709283969, 
     "STATE_ID": "1S1E16CC  4200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1300,7 +1317,8 @@
     "SHAPE_Leng": 299.992123167, 
     "STATE_ID": "1N1E22AA  11100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1376,7 +1394,8 @@
     "SHAPE_Leng": 604.900081692, 
     "STATE_ID": "1S2E16DB  6300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1436,7 +1455,8 @@
     "SHAPE_Leng": 380.000086276, 
     "STATE_ID": "1N1E34AA  2900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1512,7 +1532,8 @@
     "SHAPE_Leng": 410.060795371, 
     "STATE_ID": "1N1E32DC  7400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1584,7 +1605,8 @@
     "SHAPE_Leng": 842.899453236, 
     "STATE_ID": "1N1E09AC  1400", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -1672,7 +1694,8 @@
     "SHAPE_Leng": 380.750298518, 
     "STATE_ID": "1N1E09AC  2100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1752,7 +1775,8 @@
     "SHAPE_Leng": 830.652371108, 
     "STATE_ID": "2N1W35A   702", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1888,7 +1912,8 @@
     "SHAPE_Leng": 1346.77127616, 
     "STATE_ID": "1S1E03CD  800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -1948,7 +1973,8 @@
     "SHAPE_Leng": 466.290644724, 
     "STATE_ID": "1N2E26DB  11400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2008,7 +2034,8 @@
     "SHAPE_Leng": 400.153059149, 
     "STATE_ID": "1S1E03BA  6100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2092,7 +2119,8 @@
     "SHAPE_Leng": 681.041771986, 
     "STATE_ID": "1S1E15BB  5100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2144,7 +2172,8 @@
     "SHAPE_Leng": 221.421402998, 
     "STATE_ID": "1S1E11AD  13100", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -2204,7 +2233,8 @@
     "SHAPE_Leng": 1215.00019926, 
     "STATE_ID": "1S2E16DB  7800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2432,7 +2462,8 @@
     "SHAPE_Leng": 1286.65751711, 
     "STATE_ID": "1N1E09AC  901", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2540,7 +2571,8 @@
     "SHAPE_Leng": 508.502911456, 
     "STATE_ID": "1N1E35CB  300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2600,7 +2632,8 @@
     "SHAPE_Leng": 318.742869703, 
     "STATE_ID": "1N1E27BB  3400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -2996,7 +3029,8 @@
     "SHAPE_Leng": 7309.18367002, 
     "STATE_ID": "1N1E05C   800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3088,7 +3122,8 @@
     "SHAPE_Leng": 828.682637574, 
     "STATE_ID": "1N1W02B   500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3192,7 +3227,8 @@
     "SHAPE_Leng": 1872.22000538, 
     "STATE_ID": "1N1E34BB  100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3268,7 +3304,8 @@
     "SHAPE_Leng": 514.422129836, 
     "STATE_ID": "1N1E28BC  1800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3432,7 +3469,8 @@
     "SHAPE_Leng": 1492.57342187, 
     "STATE_ID": "1S1E03CD  900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3484,7 +3522,8 @@
     "SHAPE_Leng": 403.258701695, 
     "STATE_ID": "1N1W12BA  3400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3548,7 +3587,8 @@
     "SHAPE_Leng": 294.404194299, 
     "STATE_ID": "1N1E07BB  12800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3632,7 +3672,8 @@
     "SHAPE_Leng": 626.626962461, 
     "STATE_ID": "1N1E27BA  8200", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -3688,7 +3729,8 @@
     "SHAPE_Leng": 399.998987125, 
     "STATE_ID": "1N1E34DA  2500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3748,7 +3790,8 @@
     "SHAPE_Leng": 353.298117471, 
     "STATE_ID": "1S2E16CA  7400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3820,7 +3863,8 @@
     "SHAPE_Leng": 309.338587931, 
     "STATE_ID": "1S2E16DD  9100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3872,7 +3916,8 @@
     "SHAPE_Leng": 189.793396427, 
     "STATE_ID": "1S2E16CA  10100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -3924,7 +3969,8 @@
     "SHAPE_Leng": 290.009688941, 
     "STATE_ID": "1N1E21AD  11300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4080,7 +4126,8 @@
     "SHAPE_Leng": 1059.9946107, 
     "STATE_ID": "1N1E09DB  200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4220,7 +4267,8 @@
     "SHAPE_Leng": 927.698174819, 
     "STATE_ID": "1N1E29AA  1000", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -4276,7 +4324,8 @@
     "SHAPE_Leng": 279.998560387, 
     "STATE_ID": "1N1E34AA  2700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4336,7 +4385,8 @@
     "SHAPE_Leng": 481.619761128, 
     "STATE_ID": "1S1E28BA  3100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4388,7 +4438,8 @@
     "SHAPE_Leng": 922.970724877, 
     "STATE_ID": "1S2E12BC  3500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4516,7 +4567,8 @@
     "SHAPE_Leng": 991.361182173, 
     "STATE_ID": "1N1E09AC  900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4616,7 +4668,8 @@
     "SHAPE_Leng": 389.899278889, 
     "STATE_ID": "1N1E09DB  100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4684,7 +4737,8 @@
     "SHAPE_Leng": 432.217818673, 
     "STATE_ID": "1N1E32DA  10400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4736,7 +4790,8 @@
     "SHAPE_Leng": 275.951185511, 
     "STATE_ID": "1N1E32DB  13800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4848,7 +4903,8 @@
     "SHAPE_Leng": 1052.72172317, 
     "STATE_ID": "1N1E27BD  1000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -4952,7 +5008,8 @@
     "SHAPE_Leng": 1175.96718854, 
     "STATE_ID": "1N1E27BD  200", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -5048,7 +5105,8 @@
     "SHAPE_Leng": 861.040699453, 
     "STATE_ID": "1S2E09BD  5400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5112,7 +5170,8 @@
     "SHAPE_Leng": 1687.87597033, 
     "STATE_ID": "1S2E15DA  8200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5164,7 +5223,8 @@
     "SHAPE_Leng": 1461.70559773, 
     "STATE_ID": "1S2E15DA  8100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5276,7 +5336,8 @@
     "SHAPE_Leng": 1031.5831577, 
     "STATE_ID": "1N1E27BA  6600", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -5332,7 +5393,8 @@
     "SHAPE_Leng": 633.208954828, 
     "STATE_ID": "1N2E24CA  1400", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -5408,7 +5470,8 @@
     "SHAPE_Leng": 478.29785786, 
     "STATE_ID": "1N1E27CA  6400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5472,7 +5535,8 @@
     "SHAPE_Leng": 754.344795984, 
     "STATE_ID": "1S1E22BB  2800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5576,7 +5640,8 @@
     "SHAPE_Leng": 617.635952336, 
     "STATE_ID": "1S1E09AA  2100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5628,7 +5693,8 @@
     "SHAPE_Leng": 559.997757004, 
     "STATE_ID": "1N1E35BC  700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5692,7 +5758,8 @@
     "SHAPE_Leng": 298.7674082, 
     "STATE_ID": "1S2E16CA  9700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5768,7 +5835,8 @@
     "SHAPE_Leng": 695.813445529, 
     "STATE_ID": "1S1E24DC  5100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -5820,7 +5888,8 @@
     "SHAPE_Leng": 290.001249371, 
     "STATE_ID": "1N1E27BD  1300", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -6016,7 +6085,8 @@
     "SHAPE_Leng": 848.129975115, 
     "STATE_ID": "1N1E34BB  1303", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6080,7 +6150,8 @@
     "SHAPE_Leng": 518.355154721, 
     "STATE_ID": "1N1E34AD  1400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6144,7 +6215,8 @@
     "SHAPE_Leng": 378.986511179, 
     "STATE_ID": "1S2E16CA  8900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6204,7 +6276,8 @@
     "SHAPE_Leng": 415.198148798, 
     "STATE_ID": "1N1E32DB  13700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6256,7 +6329,8 @@
     "SHAPE_Leng": 235.996390245, 
     "STATE_ID": "1N1E32DA  10500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6312,7 +6386,8 @@
     "SHAPE_Leng": 190.716296811, 
     "STATE_ID": "1N1E34BB  700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6412,7 +6487,8 @@
     "SHAPE_Leng": 852.693372933, 
     "STATE_ID": "1N1E32DB  14000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6468,7 +6544,8 @@
     "SHAPE_Leng": 895.567044304, 
     "STATE_ID": "1N1E34BB  502", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6520,7 +6597,8 @@
     "SHAPE_Leng": 276.397340189, 
     "STATE_ID": "1N1E32DB  13900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6572,7 +6650,8 @@
     "SHAPE_Leng": 310.159496985, 
     "STATE_ID": "1N1E35CB  3400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6636,7 +6715,8 @@
     "SHAPE_Leng": 776.952051071, 
     "STATE_ID": "1N1E34BD  805", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6688,7 +6768,8 @@
     "SHAPE_Leng": 300.003359909, 
     "STATE_ID": "1N1E22AA  11000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6740,7 +6821,8 @@
     "SHAPE_Leng": 499.994209956, 
     "STATE_ID": "1S2E07DC  11500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -6792,7 +6874,8 @@
     "SHAPE_Leng": 442.954150981, 
     "STATE_ID": "1S1E31AD  19300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7008,7 +7091,8 @@
     "SHAPE_Leng": 275.035957301, 
     "STATE_ID": "1S1E09CC  2000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7060,7 +7144,8 @@
     "SHAPE_Leng": 682.630214001, 
     "STATE_ID": "1S1E11BA  9300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7184,7 +7269,8 @@
     "SHAPE_Leng": 2715.20335467, 
     "STATE_ID": "1N1E21C   203", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7248,7 +7334,8 @@
     "SHAPE_Leng": 358.781617003, 
     "STATE_ID": "1N1E32DA  10100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7304,7 +7391,8 @@
     "SHAPE_Leng": 372.419323891, 
     "STATE_ID": "1N1E32DC  9100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7484,7 +7572,8 @@
     "SHAPE_Leng": 4130.19608936, 
     "STATE_ID": "1N1E05B   1000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7552,7 +7641,8 @@
     "SHAPE_Leng": 481.106571364, 
     "STATE_ID": "1N1E22AA  10900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7636,7 +7726,8 @@
     "SHAPE_Leng": 779.999400523, 
     "STATE_ID": "1N1E34BD  2500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7700,7 +7791,8 @@
     "SHAPE_Leng": 504.049657211, 
     "STATE_ID": "1N1E27BA  7800", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -7812,7 +7904,8 @@
     "SHAPE_Leng": 2130.11474063, 
     "STATE_ID": "1S2E21CC  1800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -7872,7 +7965,8 @@
     "SHAPE_Leng": 368.042354245, 
     "STATE_ID": "1S2E16DC  12500", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -7952,7 +8046,8 @@
     "SHAPE_Leng": 531.896416849, 
     "STATE_ID": "1N1E32DA  11000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8012,7 +8107,8 @@
     "SHAPE_Leng": 334.172618337, 
     "STATE_ID": "1N1E34BB  800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8072,7 +8168,8 @@
     "SHAPE_Leng": 350.000961095, 
     "STATE_ID": "1S2E16DC  12400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8240,7 +8337,8 @@
     "SHAPE_Leng": 2906.62121212, 
     "STATE_ID": "1N2E15D   2000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8292,7 +8390,8 @@
     "SHAPE_Leng": 249.826625016, 
     "STATE_ID": "1S2E19CC  1402", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8368,7 +8467,8 @@
     "SHAPE_Leng": 700.185673577, 
     "STATE_ID": "1N1E34BD  2300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8480,7 +8580,8 @@
     "SHAPE_Leng": 1610.75544191, 
     "STATE_ID": "1S3E18B   3400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8588,7 +8689,8 @@
     "SHAPE_Leng": 1289.55246765, 
     "STATE_ID": "1N1E05DC  600", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -8676,7 +8778,8 @@
     "SHAPE_Leng": 1028.38605331, 
     "STATE_ID": "1S1E11BA  8400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8744,7 +8847,8 @@
     "SHAPE_Leng": 519.648966607, 
     "STATE_ID": "1S1E10CB  400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8804,7 +8908,8 @@
     "SHAPE_Leng": 944.933427148, 
     "STATE_ID": "1N2E15CD  800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -8920,7 +9025,8 @@
     "SHAPE_Leng": 1030.77122221, 
     "STATE_ID": "1N1E27BA  4200", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -8996,7 +9102,8 @@
     "SHAPE_Leng": 739.357360237, 
     "STATE_ID": "1N1E27DD  12000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9048,7 +9155,8 @@
     "SHAPE_Leng": 640.614679014, 
     "STATE_ID": "1S2E16DB  8100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9120,7 +9228,8 @@
     "SHAPE_Leng": 510.641399309, 
     "STATE_ID": "1S2E16CA  9400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9172,7 +9281,8 @@
     "SHAPE_Leng": 439.993283848, 
     "STATE_ID": "1S3E18B   2801", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9220,7 +9330,8 @@
     "SHAPE_Leng": 234.399788108, 
     "STATE_ID": "1N1E34DA  500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9288,7 +9399,8 @@
     "SHAPE_Leng": 300.00277908, 
     "STATE_ID": "1N1E35AD  1300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9340,7 +9452,8 @@
     "SHAPE_Leng": 289.999478314, 
     "STATE_ID": "1N1E27BD  5700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9400,7 +9513,8 @@
     "SHAPE_Leng": 335.233746397, 
     "STATE_ID": "1N1E34DA  2400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9528,7 +9642,8 @@
     "SHAPE_Leng": 1088.79886052, 
     "STATE_ID": "1N1E32DB  12900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9596,7 +9711,8 @@
     "SHAPE_Leng": 536.734550454, 
     "STATE_ID": "1N1E15AD  10800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9652,7 +9768,8 @@
     "SHAPE_Leng": 383.31117357, 
     "STATE_ID": "1S1E28BA  2900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9728,7 +9845,8 @@
     "SHAPE_Leng": 255.702001352, 
     "STATE_ID": "1N1E29AA  600", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -9780,7 +9898,8 @@
     "SHAPE_Leng": 222.019520091, 
     "STATE_ID": "1S2E16CA  10200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -9840,7 +9959,8 @@
     "SHAPE_Leng": 299.998973033, 
     "STATE_ID": "1N1E06AC  500", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -9916,7 +10036,8 @@
     "SHAPE_Leng": 875.415830431, 
     "STATE_ID": "1S2E11DA  11900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11128,7 +11249,8 @@
     "SHAPE_Leng": 3899.95575739, 
     "STATE_ID": "1N1E01CC  200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11276,7 +11398,8 @@
     "SHAPE_Leng": 666.001075287, 
     "STATE_ID": "1N1E32DB  13400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11408,7 +11531,8 @@
     "SHAPE_Leng": 762.253470033, 
     "STATE_ID": "1N1E29AA  400", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -11460,7 +11584,8 @@
     "SHAPE_Leng": 411.203761045, 
     "STATE_ID": "1N2E33AA  1400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11536,7 +11661,8 @@
     "SHAPE_Leng": 671.029932868, 
     "STATE_ID": "1S1E03CB  2600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11592,7 +11718,8 @@
     "SHAPE_Leng": 307.499318169, 
     "STATE_ID": "1N1E27BB  3300", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -11656,7 +11783,8 @@
     "SHAPE_Leng": 449.997177458, 
     "STATE_ID": "1N1W12BB  3200", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -11712,7 +11840,8 @@
     "SHAPE_Leng": 315.798158887, 
     "STATE_ID": "1N1E27CA  6401", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11780,7 +11909,8 @@
     "SHAPE_Leng": 874.527360976, 
     "STATE_ID": "1S2E11DA  12000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11848,7 +11978,8 @@
     "SHAPE_Leng": 556.026149489, 
     "STATE_ID": "1S2E17BD  200", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -11900,7 +12031,8 @@
     "SHAPE_Leng": 359.589630586, 
     "STATE_ID": "1S2E22BA  1900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -11952,7 +12084,8 @@
     "SHAPE_Leng": 560.003721087, 
     "STATE_ID": "1N1E35BC  800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12020,7 +12153,8 @@
     "SHAPE_Leng": 387.067004197, 
     "STATE_ID": "1N1E27CA  5700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12100,7 +12234,8 @@
     "SHAPE_Leng": 367.103309878, 
     "STATE_ID": "1S2E16CA  11700", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -12172,7 +12307,8 @@
     "SHAPE_Leng": 589.998983958, 
     "STATE_ID": "1N1E34DB  200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12224,7 +12360,8 @@
     "SHAPE_Leng": 367.747751191, 
     "STATE_ID": "1S2E15DD  6100", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -12328,7 +12465,8 @@
     "SHAPE_Leng": 384.92521339, 
     "STATE_ID": "1N1E29AA  500", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -12408,7 +12546,8 @@
     "SHAPE_Leng": 1718.74796558, 
     "STATE_ID": "1N2E34AB  1600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12480,7 +12619,8 @@
     "SHAPE_Leng": 648.912485186, 
     "STATE_ID": "1S2E16DB  6400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12540,7 +12680,8 @@
     "SHAPE_Leng": 249.697915466, 
     "STATE_ID": "1S2E16CA  9600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12608,7 +12749,8 @@
     "SHAPE_Leng": 463.955218553, 
     "STATE_ID": "1S2E16DD  9200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -12776,7 +12918,8 @@
     "SHAPE_Leng": 560.695562576, 
     "STATE_ID": "1N2E18BC  3000", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -12904,7 +13047,8 @@
     "SHAPE_Leng": 1276.96617603, 
     "STATE_ID": "1N1E27BD  100", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -12956,7 +13100,8 @@
     "SHAPE_Leng": 300.036659448, 
     "STATE_ID": "1S2E15CC  100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13048,7 +13193,8 @@
     "SHAPE_Leng": 1130.18146051, 
     "STATE_ID": "1N1E32CD  100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13100,7 +13246,8 @@
     "SHAPE_Leng": 835.138288518, 
     "STATE_ID": "1S2E24CC  5200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13200,7 +13347,8 @@
     "SHAPE_Leng": 775.930229354, 
     "STATE_ID": "1N1E32DC  7700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13272,7 +13420,8 @@
     "SHAPE_Leng": 440.010903611, 
     "STATE_ID": "1N1W01CC  16500", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -13368,7 +13517,8 @@
     "SHAPE_Leng": 1033.24543988, 
     "STATE_ID": "1N1E11DB  900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13448,7 +13598,8 @@
     "SHAPE_Leng": 453.636832653, 
     "STATE_ID": "1S1E06CA  1600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13528,7 +13679,8 @@
     "SHAPE_Leng": 548.884172673, 
     "STATE_ID": "1S1E01DA  7700", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -13656,7 +13808,8 @@
     "SHAPE_Leng": 810.690692091, 
     "STATE_ID": "1N1E34BB  1305", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13728,7 +13881,8 @@
     "SHAPE_Leng": 1169.70240437, 
     "STATE_ID": "1S1E22BC  9900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13848,7 +14002,8 @@
     "SHAPE_Leng": 4132.52907876, 
     "STATE_ID": "1N1E12B   100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -13912,7 +14067,8 @@
     "SHAPE_Leng": 771.101946822, 
     "STATE_ID": "1S2E16DB  8000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14004,7 +14160,8 @@
     "SHAPE_Leng": 652.200720422, 
     "STATE_ID": "1S2E17BD  100", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -14056,7 +14213,8 @@
     "SHAPE_Leng": 320.889252366, 
     "STATE_ID": "1N1E22AA  10700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14136,7 +14294,8 @@
     "SHAPE_Leng": 425.539972311, 
     "STATE_ID": "1S1E04BB  5800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14252,7 +14411,8 @@
     "SHAPE_Leng": 226.242092266, 
     "STATE_ID": "1N1E34DA  3400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14332,7 +14492,8 @@
     "SHAPE_Leng": 488.488040795, 
     "STATE_ID": "1N1E34DA  3500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14404,7 +14565,8 @@
     "SHAPE_Leng": 349.71447156, 
     "STATE_ID": "1S2E19CC  1400", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14456,7 +14618,8 @@
     "SHAPE_Leng": 729.996578351, 
     "STATE_ID": "1N1E35BC  900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14572,7 +14735,8 @@
     "SHAPE_Leng": 872.892274935, 
     "STATE_ID": "1S2E03BB  1700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14668,7 +14832,8 @@
     "SHAPE_Leng": 1948.67716852, 
     "STATE_ID": "1N1E01CC  300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14744,7 +14909,8 @@
     "SHAPE_Leng": 407.222936403, 
     "STATE_ID": "1N1E32DC  7800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -14820,7 +14986,8 @@
     "SHAPE_Leng": 1321.26529776, 
     "STATE_ID": "1N1E27BA  4300", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -14904,7 +15071,8 @@
     "SHAPE_Leng": 695.22687894, 
     "STATE_ID": "2N1E33D   800", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -14964,7 +15132,8 @@
     "SHAPE_Leng": 380.003380644, 
     "STATE_ID": "1N1E27BD  5800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15020,7 +15189,8 @@
     "SHAPE_Leng": 331.037995273, 
     "STATE_ID": "1S1E03CB  2800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15168,7 +15338,8 @@
     "SHAPE_Leng": 1605.60727215, 
     "STATE_ID": "1N2E25CD  5200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15220,7 +15391,8 @@
     "SHAPE_Leng": 249.813441413, 
     "STATE_ID": "1S2E19CC  1401", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15272,7 +15444,8 @@
     "SHAPE_Leng": 552.783718304, 
     "STATE_ID": "1S1E16BA  3700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15328,7 +15501,8 @@
     "SHAPE_Leng": 291.294974012, 
     "STATE_ID": "1S1E11BA  8600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15384,7 +15558,8 @@
     "SHAPE_Leng": 793.452972345, 
     "STATE_ID": "1S2E16DB  7900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15444,7 +15619,8 @@
     "SHAPE_Leng": 731.886495581, 
     "STATE_ID": "1S2E16DB  7700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15516,7 +15692,8 @@
     "SHAPE_Leng": 406.198303123, 
     "STATE_ID": "1S1E32AC  5100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15604,7 +15781,8 @@
     "SHAPE_Leng": 324.834980543, 
     "STATE_ID": "1S2E16CA  9100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15664,7 +15842,8 @@
     "SHAPE_Leng": 536.509885925, 
     "STATE_ID": "1S1E16CC  4100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15728,7 +15907,8 @@
     "SHAPE_Leng": 336.808841053, 
     "STATE_ID": "1S2E16CA  10700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15792,7 +15972,8 @@
     "SHAPE_Leng": 327.880656293, 
     "STATE_ID": "1N1E32DB  13500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -15892,7 +16073,8 @@
     "SHAPE_Leng": 614.887909224, 
     "STATE_ID": "1N1E32DC  7900", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16052,7 +16234,8 @@
     "SHAPE_Leng": 1696.94189998, 
     "STATE_ID": "1N2E33AA  1300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16108,7 +16291,8 @@
     "SHAPE_Leng": 849.177349386, 
     "STATE_ID": "1N3E19B   300", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -16216,7 +16400,8 @@
     "SHAPE_Leng": 750.286790878, 
     "STATE_ID": "1S2E16CA  8000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16308,7 +16493,8 @@
     "SHAPE_Leng": 362.706516904, 
     "STATE_ID": "1N1W12BA  3300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16368,7 +16554,8 @@
     "SHAPE_Leng": 1229.2845438, 
     "STATE_ID": "1N1W13A   200", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16428,7 +16615,8 @@
     "SHAPE_Leng": 360.339693508, 
     "STATE_ID": "1S1E21DD  8000", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16508,7 +16696,8 @@
     "SHAPE_Leng": 542.585588722, 
     "STATE_ID": "1N1E27BD  8100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16596,7 +16785,8 @@
     "SHAPE_Leng": 869.101894558, 
     "STATE_ID": "1S2E17AC  5200", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -16660,7 +16850,8 @@
     "SHAPE_Leng": 750.62544196, 
     "STATE_ID": "1S2E13DD  2300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16716,7 +16907,8 @@
     "SHAPE_Leng": 610.033775703, 
     "STATE_ID": "1S2E11AC  700", 
     "Fiber_Clas": "Medium Review", 
-    "fill": "#0b0"
+    "stroke-width": 0, 
+    "fill": "#ff9326"
    }
   }, 
   {
@@ -16772,7 +16964,8 @@
     "SHAPE_Leng": 380.002159263, 
     "STATE_ID": "1N1E27BD  4800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16852,7 +17045,8 @@
     "SHAPE_Leng": 731.978353126, 
     "STATE_ID": "1S2E16DB  7600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16924,7 +17118,8 @@
     "SHAPE_Leng": 1131.52623303, 
     "STATE_ID": "1S2E03BB  800", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -16976,7 +17171,8 @@
     "SHAPE_Leng": 765.0324256, 
     "STATE_ID": "1N2E15CA  1400", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -17028,7 +17224,8 @@
     "SHAPE_Leng": 321.72953359, 
     "STATE_ID": "1N1E22AA  10600", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -17084,7 +17281,8 @@
     "SHAPE_Leng": 322.197452215, 
     "STATE_ID": "1N1E27BB  3200", 
     "Fiber_Clas": "Low Review", 
-    "fill": "#090"
+    "stroke-width": 0, 
+    "fill": "#ffbf40"
    }
   }, 
   {
@@ -17152,7 +17350,8 @@
     "SHAPE_Leng": 673.475059898, 
     "STATE_ID": "1S2E02BC  5100", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -17228,7 +17427,8 @@
     "SHAPE_Leng": 1941.02280715, 
     "STATE_ID": "1S3E18B   2500", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -17296,7 +17496,8 @@
     "SHAPE_Leng": 313.917142911, 
     "STATE_ID": "1N1E34DA  3300", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }, 
   {
@@ -17364,7 +17565,8 @@
     "SHAPE_Leng": 868.326010508, 
     "STATE_ID": "1S3E18B   3700", 
     "Fiber_Clas": "High Review", 
-    "fill": "#0f0"
+    "stroke-width": 1, 
+    "fill": "#ff710d"
    }
   }
  ]
