@@ -20,7 +20,6 @@ for n,feature in enumerate(j['features']):
       feature['properties']['fill'] = '#0b0'
     elif fc == 'Low Review':
       feature['properties']['fill'] = '#090'
-  feature['properties']['stroke-width'] = 3
 
 j['features'] = [x for x in j['features'] if x['properties']['Viability'] == 'Viable']
 
