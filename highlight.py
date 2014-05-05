@@ -4,10 +4,11 @@ import json
 
 j = json.load(open('cop_fiber_hut_cand_sts_wgs84.geojson'))
 #print j
-for feature in j['features']:
+for n,feature in enumerate(j['features']):
   v = feature['properties']['Viability']
   if v == 'Not Viable':
-    feature['properties']['fill'] = '#f00'
+    feature['properties']['fill'] = '#f00 xx %s' % str(n)
+    del j['features'][n]
   elif v == 'Viable':
     fc = feature['properties']['Fiber_Clas']
     if fc == 'High Review':
